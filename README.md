@@ -1,7 +1,7 @@
 # PriBankGo
 An implmentation for PriBank core algorithm in Go
 
-# 1 Set user number
+# Set user number
  in file writeCircuit.go, set the number of users, users balance range and transaction values range by:
  
  `users:=2`
